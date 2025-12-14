@@ -36,7 +36,7 @@ Before training, the text data was cleaned and prepared to ensure high-quality i
 - can Detect sarcasm at some extent.
 - Visualize prediction probabilities for better insights(Depression and Suicidal are close meaning).
 
-## Demo:  Deploy link : [[link]](https://mental-health-analyzer.streamlit.app/)
+## Demo:  Deploy link : [[link]]([https://mental-health-analyzer.streamlit.app/](https://mental-health-analyzer-cxuqkbbhgmvtecperwkh7j.streamlit.app/))
 ## Screenshots
 <img width="1892" height="845" alt="image" src="https://github.com/user-attachments/assets/001c1c2e-ff60-43ff-b2db-1a10634f1c42" />
 
